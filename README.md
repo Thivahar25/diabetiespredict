@@ -30,7 +30,7 @@ To run this project, you can either download the files manually or use Git to cl
 
 ```bash
 # Clone the repository
-git clone https://github.com/Keerthilucifergithub/diabetiespredict .git
+git clone https://github.com/Thivahar25/diabetiespredict.git
 
 # Navigate to the project directory
 cd diabetiespredict 
@@ -52,7 +52,8 @@ Before running the code, ensure you have the following dependencies installed on
 - NumPy
 - pandas
 - scikit-learn (for train-test split)
-- matplotlib (for data visualization, though not used in this code)
+- matplotlib
+- seaborn
 - ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/17935095-ce84-487e-a875-abc8a3f0da09 )           ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/d0aaebf3-415d-49a9-beed-9a4b3fca86a3)
 ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/667efbd9-10af-40c2-8363-344517219ecb)
 
@@ -61,7 +62,7 @@ Before running the code, ensure you have the following dependencies installed on
 You can install these dependencies using `pip`:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib
+pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
 ## How to Run
